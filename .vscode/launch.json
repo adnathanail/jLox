@@ -1,0 +1,20 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - GenerateAst",
+      "request": "launch",
+      "mainClass": "tool.GenerateAst",
+      "projectName": "Lox",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Lox",
+      "request": "launch",
+      "mainClass": "lox.Lox",
+      "projectName": "Lox",
+      "console": "integratedTerminal"
+    }
+  ]
+}
